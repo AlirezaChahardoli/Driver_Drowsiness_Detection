@@ -7,7 +7,7 @@
 ## I built a simple driver drowsiness detection system from scratch that uses computer vision to track blink counts and detect prolonged eye closure, triggering an alert! 
 ## When you’re too tired, the system triggers an alert🚨 to keep you safe.
 
-![IMG_4456](https://github.com/user-attachments/assets/f7723898-8226-4947-9421-81f2e0f4cc0b)
+![IMG_4456](https://github.com/user-attachments/assets/4e5b20d3-b27f-402f-ae5e-810e314b0c8f)
 
 
 ## ✅ Features:
